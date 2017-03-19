@@ -11,5 +11,5 @@ A static generation with a simple JSON file and the moderncv LaTeX template
 
 # Todo
 Add a dynamic generation with a simple JSON file
-Add tje possibility of adding new elements in the JSON file
+Add the possibility of adding new elements in the JSON file
 Add the possibility of creating new types in the JSON file
